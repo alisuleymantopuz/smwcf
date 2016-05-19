@@ -1,0 +1,11 @@
+C:\Bitbucket Projects\NorthwindDataService\NorthwindDataService\bin\NorthwindDataService.dll.config
+C:\Bitbucket Projects\NorthwindDataService\NorthwindDataService\bin\NorthwindDataService.dll
+C:\Bitbucket Projects\NorthwindDataService\NorthwindDataService\bin\NorthwindDataService.pdb
+C:\Bitbucket Projects\NorthwindDataService\NorthwindDataService\obj\Debug\NorthwindDataService.csprojResolveAssemblyReference.cache
+C:\Bitbucket Projects\NorthwindDataService\NorthwindDataService\obj\Debug\NorthwindDataService.dll
+C:\Bitbucket Projects\NorthwindDataService\NorthwindDataService\obj\Debug\NorthwindDataService.pdb
+C:\Bitbucket Projects\NorthwindDataService\NorthwindDataService\bin\StructureMap.dll
+C:\Bitbucket Projects\NorthwindDataService\NorthwindDataService\bin\StructureMap.Net4.dll
+C:\Bitbucket Projects\NorthwindDataService\NorthwindDataService\bin\StructureMap.pdb
+C:\Bitbucket Projects\NorthwindDataService\NorthwindDataService\bin\StructureMap.xml
+C:\Bitbucket Projects\NorthwindDataService\NorthwindDataService\bin\StructureMap.Net4.pdb
