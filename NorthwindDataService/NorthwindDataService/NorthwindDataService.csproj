@@ -40,6 +40,14 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <ItemGroup>
+    <Reference Include="EntityFramework, Version=6.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089, processorArchitecture=MSIL">
+      <HintPath>..\packages\EntityFramework.6.1.3\lib\net45\EntityFramework.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="EntityFramework.SqlServer, Version=6.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089, processorArchitecture=MSIL">
+      <HintPath>..\packages\EntityFramework.6.1.3\lib\net45\EntityFramework.SqlServer.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
     <Reference Include="Microsoft.CSharp" />
     <Reference Include="StructureMap, Version=4.2.0.402, Culture=neutral, processorArchitecture=MSIL">
       <HintPath>..\packages\structuremap.4.2.0.402\lib\net40\StructureMap.dll</HintPath>
@@ -49,6 +57,7 @@
       <HintPath>..\packages\structuremap.4.2.0.402\lib\net40\StructureMap.Net4.dll</HintPath>
       <Private>True</Private>
     </Reference>
+    <Reference Include="System.ComponentModel.DataAnnotations" />
     <Reference Include="System.ServiceModel.Activation" />
     <Reference Include="System.Web.DynamicData" />
     <Reference Include="System.Web.Entity" />
@@ -77,19 +86,30 @@
       <DependentUpon>CustomerSearchService.svc</DependentUpon>
     </Compile>
     <Compile Include="ICustomerSearchService.cs" />
-    <Compile Include="IoC\Bootstrapper.cs" />
-    <Compile Include="IoC\RegistryDefinitions\RepositoryRegistry.cs" />
-    <Compile Include="IoC\RegistryDefinitions\ScannerRegistry.cs" />
-    <Compile Include="Repository\Contracts\ICustomerRepository.cs" />
-    <Compile Include="Repository\CustomerRepository.cs" />
-    <Compile Include="DataContracts\CustomerInfo.cs" />
     <Compile Include="StructureMapInstanceProvider.cs" />
     <Compile Include="StructureMapServiceBehavior.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="StructureMapServiceHost.cs" />
     <Compile Include="StructureMapServiceHostFactory.cs" />
   </ItemGroup>
-  <ItemGroup />
+  <ItemGroup>
+    <ProjectReference Include="..\NorthwindDataService.DataContracts\NorthwindDataService.DataContracts.csproj">
+      <Project>{3ec7ee22-29e9-45c1-9cd3-6665e7737ec6}</Project>
+      <Name>NorthwindDataService.DataContracts</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\NorthwindDataService.IoC\NorthwindDataService.IoC.csproj">
+      <Project>{d2554b60-d193-4d7a-907c-f75543cad6d4}</Project>
+      <Name>NorthwindDataService.IoC</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\NorthwindDataService.Orm\NorthwindDataService.Orm.csproj">
+      <Project>{ab35f209-76bc-4f23-9421-067a3328c5a2}</Project>
+      <Name>NorthwindDataService.Orm</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\NorthwindDataService.Repository\NorthwindDataService.Repository.csproj">
+      <Project>{d3fb23ff-2109-42ef-83c1-e47f1db08fb9}</Project>
+      <Name>NorthwindDataService.Repository</Name>
+    </ProjectReference>
+  </ItemGroup>
   <ItemGroup>
     <Content Include="packages.config" />
     <None Include="Web.Debug.config">

@@ -18,7 +18,7 @@ namespace NorthwindDataService
         string GetData(int value);
 
         [OperationContract]
-        CustomerInfo GetCustomer(int id);
+        CustomerInfo GetCustomer(string customerId);
     }
 
 

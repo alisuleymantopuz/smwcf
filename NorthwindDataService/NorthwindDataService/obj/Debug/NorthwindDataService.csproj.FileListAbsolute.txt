@@ -9,3 +9,26 @@ C:\Bitbucket Projects\NorthwindDataService\NorthwindDataService\bin\StructureMap
 C:\Bitbucket Projects\NorthwindDataService\NorthwindDataService\bin\StructureMap.pdb
 C:\Bitbucket Projects\NorthwindDataService\NorthwindDataService\bin\StructureMap.xml
 C:\Bitbucket Projects\NorthwindDataService\NorthwindDataService\bin\StructureMap.Net4.pdb
+C:\Bitbucket Projects\Best Practice - StructureMap and WCF Implementation\NorthwindDataService\NorthwindDataService\obj\Debug\NorthwindDataService.csprojResolveAssemblyReference.cache
+C:\Bitbucket Projects\Best Practice - StructureMap and WCF Implementation\NorthwindDataService\NorthwindDataService\obj\Debug\NorthwindDataService.dll
+C:\Bitbucket Projects\Best Practice - StructureMap and WCF Implementation\NorthwindDataService\NorthwindDataService\obj\Debug\NorthwindDataService.pdb
+C:\Bitbucket Projects\Best Practice - StructureMap and WCF Implementation\NorthwindDataService\NorthwindDataService\bin\NorthwindDataService.dll.config
+C:\Bitbucket Projects\Best Practice - StructureMap and WCF Implementation\NorthwindDataService\NorthwindDataService\bin\NorthwindDataService.dll
+C:\Bitbucket Projects\Best Practice - StructureMap and WCF Implementation\NorthwindDataService\NorthwindDataService\bin\NorthwindDataService.pdb
+C:\Bitbucket Projects\Best Practice - StructureMap and WCF Implementation\NorthwindDataService\NorthwindDataService\bin\EntityFramework.dll
+C:\Bitbucket Projects\Best Practice - StructureMap and WCF Implementation\NorthwindDataService\NorthwindDataService\bin\EntityFramework.SqlServer.dll
+C:\Bitbucket Projects\Best Practice - StructureMap and WCF Implementation\NorthwindDataService\NorthwindDataService\bin\NorthwindDataService.DataContracts.dll
+C:\Bitbucket Projects\Best Practice - StructureMap and WCF Implementation\NorthwindDataService\NorthwindDataService\bin\NorthwindDataService.Orm.dll
+C:\Bitbucket Projects\Best Practice - StructureMap and WCF Implementation\NorthwindDataService\NorthwindDataService\bin\NorthwindDataService.Repository.dll
+C:\Bitbucket Projects\Best Practice - StructureMap and WCF Implementation\NorthwindDataService\NorthwindDataService\bin\StructureMap.dll
+C:\Bitbucket Projects\Best Practice - StructureMap and WCF Implementation\NorthwindDataService\NorthwindDataService\bin\StructureMap.Net4.dll
+C:\Bitbucket Projects\Best Practice - StructureMap and WCF Implementation\NorthwindDataService\NorthwindDataService\bin\NorthwindDataService.DataContracts.pdb
+C:\Bitbucket Projects\Best Practice - StructureMap and WCF Implementation\NorthwindDataService\NorthwindDataService\bin\NorthwindDataService.Orm.pdb
+C:\Bitbucket Projects\Best Practice - StructureMap and WCF Implementation\NorthwindDataService\NorthwindDataService\bin\NorthwindDataService.Repository.pdb
+C:\Bitbucket Projects\Best Practice - StructureMap and WCF Implementation\NorthwindDataService\NorthwindDataService\bin\EntityFramework.xml
+C:\Bitbucket Projects\Best Practice - StructureMap and WCF Implementation\NorthwindDataService\NorthwindDataService\bin\EntityFramework.SqlServer.xml
+C:\Bitbucket Projects\Best Practice - StructureMap and WCF Implementation\NorthwindDataService\NorthwindDataService\bin\StructureMap.pdb
+C:\Bitbucket Projects\Best Practice - StructureMap and WCF Implementation\NorthwindDataService\NorthwindDataService\bin\StructureMap.xml
+C:\Bitbucket Projects\Best Practice - StructureMap and WCF Implementation\NorthwindDataService\NorthwindDataService\bin\StructureMap.Net4.pdb
+C:\Bitbucket Projects\Best Practice - StructureMap and WCF Implementation\NorthwindDataService\NorthwindDataService\bin\NorthwindDataService.IoC.dll
+C:\Bitbucket Projects\Best Practice - StructureMap and WCF Implementation\NorthwindDataService\NorthwindDataService\bin\NorthwindDataService.IoC.pdb

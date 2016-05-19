@@ -24,12 +24,17 @@ namespace NorthwindDataService
             return string.Format("You entered: {0}", value);
         }
 
-        public CustomerInfo GetCustomer(int id)
+        public CustomerInfo GetCustomer(string customerId)
         {
             if (CustomerRepository == null)
                 return null;
 
-            return CustomerRepository.LoadById(id);
+            var customer = CustomerRepository.Load(customerId);
+
+            if (customer == null)
+                return null;
+
+            return new CustomerInfo { Id = customer.CustomerID, Name = customer.CompanyName };
         }
     }
 }

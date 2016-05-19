@@ -1,0 +1,12 @@
+C:\Bitbucket Projects\Best Practice - StructureMap and WCF Implementation\NorthwindDataService\NorthwindDataService.Repository\obj\Debug\NorthwindDataService.Repository.csprojResolveAssemblyReference.cache
+C:\Bitbucket Projects\Best Practice - StructureMap and WCF Implementation\NorthwindDataService\NorthwindDataService.Repository\bin\Debug\NorthwindDataService.Repository.dll.config
+C:\Bitbucket Projects\Best Practice - StructureMap and WCF Implementation\NorthwindDataService\NorthwindDataService.Repository\bin\Debug\NorthwindDataService.Repository.dll
+C:\Bitbucket Projects\Best Practice - StructureMap and WCF Implementation\NorthwindDataService\NorthwindDataService.Repository\bin\Debug\NorthwindDataService.Repository.pdb
+C:\Bitbucket Projects\Best Practice - StructureMap and WCF Implementation\NorthwindDataService\NorthwindDataService.Repository\bin\Debug\EntityFramework.dll
+C:\Bitbucket Projects\Best Practice - StructureMap and WCF Implementation\NorthwindDataService\NorthwindDataService.Repository\bin\Debug\EntityFramework.SqlServer.dll
+C:\Bitbucket Projects\Best Practice - StructureMap and WCF Implementation\NorthwindDataService\NorthwindDataService.Repository\bin\Debug\NorthwindDataService.Orm.dll
+C:\Bitbucket Projects\Best Practice - StructureMap and WCF Implementation\NorthwindDataService\NorthwindDataService.Repository\bin\Debug\NorthwindDataService.Orm.pdb
+C:\Bitbucket Projects\Best Practice - StructureMap and WCF Implementation\NorthwindDataService\NorthwindDataService.Repository\bin\Debug\EntityFramework.xml
+C:\Bitbucket Projects\Best Practice - StructureMap and WCF Implementation\NorthwindDataService\NorthwindDataService.Repository\bin\Debug\EntityFramework.SqlServer.xml
+C:\Bitbucket Projects\Best Practice - StructureMap and WCF Implementation\NorthwindDataService\NorthwindDataService.Repository\obj\Debug\NorthwindDataService.Repository.dll
+C:\Bitbucket Projects\Best Practice - StructureMap and WCF Implementation\NorthwindDataService\NorthwindDataService.Repository\obj\Debug\NorthwindDataService.Repository.pdb
