@@ -1,0 +1,6 @@
+C:\Bitbucket Projects\Best Practice - StructureMap and WCF Implementation\NorthwindDataService\NorthwindDataService.Managed\obj\Debug\NorthwindDataService.Managed.csprojResolveAssemblyReference.cache
+C:\Bitbucket Projects\Best Practice - StructureMap and WCF Implementation\NorthwindDataService\NorthwindDataService.Managed\bin\Debug\NorthwindDataService.Managed.exe.config
+C:\Bitbucket Projects\Best Practice - StructureMap and WCF Implementation\NorthwindDataService\NorthwindDataService.Managed\bin\Debug\NorthwindDataService.Managed.exe
+C:\Bitbucket Projects\Best Practice - StructureMap and WCF Implementation\NorthwindDataService\NorthwindDataService.Managed\bin\Debug\NorthwindDataService.Managed.pdb
+C:\Bitbucket Projects\Best Practice - StructureMap and WCF Implementation\NorthwindDataService\NorthwindDataService.Managed\obj\Debug\NorthwindDataService.Managed.exe
+C:\Bitbucket Projects\Best Practice - StructureMap and WCF Implementation\NorthwindDataService\NorthwindDataService.Managed\obj\Debug\NorthwindDataService.Managed.pdb

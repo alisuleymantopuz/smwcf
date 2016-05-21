@@ -1,0 +1,41 @@
+﻿Installing assembly 'C:\Bitbucket Projects\Best Practice - StructureMap and WCF Implementation\NorthwindDataService\NorthwindDataService.Managed\bin\Debug\NorthwindDataService.Managed.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Bitbucket Projects\Best Practice - StructureMap and WCF Implementation\NorthwindDataService\NorthwindDataService.Managed\bin\Debug\NorthwindDataService.Managed.InstallLog
+   assemblypath = C:\Bitbucket Projects\Best Practice - StructureMap and WCF Implementation\NorthwindDataService\NorthwindDataService.Managed\bin\Debug\NorthwindDataService.Managed.exe
+No public installers with the RunInstallerAttribute.Yes attribute could be found in the C:\Bitbucket Projects\Best Practice - StructureMap and WCF Implementation\NorthwindDataService\NorthwindDataService.Managed\bin\Debug\NorthwindDataService.Managed.exe assembly.
+Committing assembly 'C:\Bitbucket Projects\Best Practice - StructureMap and WCF Implementation\NorthwindDataService\NorthwindDataService.Managed\bin\Debug\NorthwindDataService.Managed.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Bitbucket Projects\Best Practice - StructureMap and WCF Implementation\NorthwindDataService\NorthwindDataService.Managed\bin\Debug\NorthwindDataService.Managed.InstallLog
+   assemblypath = C:\Bitbucket Projects\Best Practice - StructureMap and WCF Implementation\NorthwindDataService\NorthwindDataService.Managed\bin\Debug\NorthwindDataService.Managed.exe
+No public installers with the RunInstallerAttribute.Yes attribute could be found in the C:\Bitbucket Projects\Best Practice - StructureMap and WCF Implementation\NorthwindDataService\NorthwindDataService.Managed\bin\Debug\NorthwindDataService.Managed.exe assembly.
+Remove InstallState file because there are no installers.
+Uninstalling assembly 'C:\Bitbucket Projects\Best Practice - StructureMap and WCF Implementation\NorthwindDataService\NorthwindDataService.Managed\bin\Debug\NorthwindDataService.Managed.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Bitbucket Projects\Best Practice - StructureMap and WCF Implementation\NorthwindDataService\NorthwindDataService.Managed\bin\Debug\NorthwindDataService.Managed.InstallLog
+   assemblypath = C:\Bitbucket Projects\Best Practice - StructureMap and WCF Implementation\NorthwindDataService\NorthwindDataService.Managed\bin\Debug\NorthwindDataService.Managed.exe
+No public installers with the RunInstallerAttribute.Yes attribute could be found in the C:\Bitbucket Projects\Best Practice - StructureMap and WCF Implementation\NorthwindDataService\NorthwindDataService.Managed\bin\Debug\NorthwindDataService.Managed.exe assembly.
+Installing assembly 'C:\Bitbucket Projects\Best Practice - StructureMap and WCF Implementation\NorthwindDataService\NorthwindDataService.Managed\bin\Debug\NorthwindDataService.Managed.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Bitbucket Projects\Best Practice - StructureMap and WCF Implementation\NorthwindDataService\NorthwindDataService.Managed\bin\Debug\NorthwindDataService.Managed.InstallLog
+   assemblypath = C:\Bitbucket Projects\Best Practice - StructureMap and WCF Implementation\NorthwindDataService\NorthwindDataService.Managed\bin\Debug\NorthwindDataService.Managed.exe
+Installing service Northwind Windows Service...
+Service Northwind Windows Service has been successfully installed.
+Creating EventLog source Northwind Windows Service in log Application...
+Committing assembly 'C:\Bitbucket Projects\Best Practice - StructureMap and WCF Implementation\NorthwindDataService\NorthwindDataService.Managed\bin\Debug\NorthwindDataService.Managed.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Bitbucket Projects\Best Practice - StructureMap and WCF Implementation\NorthwindDataService\NorthwindDataService.Managed\bin\Debug\NorthwindDataService.Managed.InstallLog
+   assemblypath = C:\Bitbucket Projects\Best Practice - StructureMap and WCF Implementation\NorthwindDataService\NorthwindDataService.Managed\bin\Debug\NorthwindDataService.Managed.exe
+Uninstalling assembly 'C:\Bitbucket Projects\Best Practice - StructureMap and WCF Implementation\NorthwindDataService\NorthwindDataService.Managed\bin\Debug\NorthwindDataService.Managed.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Bitbucket Projects\Best Practice - StructureMap and WCF Implementation\NorthwindDataService\NorthwindDataService.Managed\bin\Debug\NorthwindDataService.Managed.InstallLog
+   assemblypath = C:\Bitbucket Projects\Best Practice - StructureMap and WCF Implementation\NorthwindDataService\NorthwindDataService.Managed\bin\Debug\NorthwindDataService.Managed.exe
+Removing EventLog source Northwind Windows Service.
+Service Northwind Windows Service is being removed from the system...
+Service Northwind Windows Service was successfully removed from the system.
+Attempt to stop service Northwind Windows Service.
