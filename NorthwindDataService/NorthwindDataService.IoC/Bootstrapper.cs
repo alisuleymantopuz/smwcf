@@ -29,5 +29,10 @@ namespace NorthwindDataService.IoC
                 x.AddRegistry<ScannerRegistry>();
             });
         }
+
+        public static void DisposeApplication()
+        { 
+
+        }
     }
 }
